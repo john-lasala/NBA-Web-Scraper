@@ -14,4 +14,4 @@ pip3 install requests beautifulsoup4
 pip3 install texttable pandas operator
 pip3 install datetime getpass sys
 ```
-- Run python3 NBA-Web-Scraper.py
+- Run python3 NBA-Web-Scraper.py in the command line

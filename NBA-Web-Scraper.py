@@ -135,7 +135,6 @@ def pointsPerGame(selection, URL):
         print('\n' + '=' * 80 + '\n')
         return
 
-
     for player in soup.find_all('td', {'data-stat' : 'player'}):
         player_list.append(player.text)
 
